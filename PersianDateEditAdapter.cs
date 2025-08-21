@@ -1,11 +1,11 @@
 ﻿using DevExpress.ExpressApp.Blazor.Components;
 using DevExpress.ExpressApp.Blazor.Components.Models;
 using DevExpress.ExpressApp.Blazor.Editors.Adapters;
-using JMTech.ExpressApp.Blazor.Editors.Helpers;
-using JMTech.ExpressApp.Blazor.Editors.Renderers;
+using AvTex.ExpressApp.Blazor.Editors.Helpers;
+using AvTex.ExpressApp.Blazor.Editors.Renderers;
 using Microsoft.AspNetCore.Components;
 
-namespace JMTech.ExpressApp.Blazor.Editors.Adapters;
+namespace AvTex.ExpressApp.Blazor.Editors.Adapters;
 
 public class PersianDateEditAdapter<T> : DxDateEditAdapter
 {

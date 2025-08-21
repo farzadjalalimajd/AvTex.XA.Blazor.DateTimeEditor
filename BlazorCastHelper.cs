@@ -1,6 +1,6 @@
 ﻿using DevExpress.Blazor;
 
-namespace JMTech.ExpressApp.Blazor.Editors.Helpers;
+namespace AvTex.ExpressApp.Blazor.Editors.Helpers;
 
 internal static class BlazorCastHelper
 {

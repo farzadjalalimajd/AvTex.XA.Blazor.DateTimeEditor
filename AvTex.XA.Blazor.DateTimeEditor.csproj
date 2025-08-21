@@ -7,7 +7,7 @@
 	<AssemblyVersion>24.2.8.2</AssemblyVersion>
 	<Version>24.2.8.2</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.XA.Blazor.DateTimeEditor</RepositoryUrl>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/AvTex.XA.Blazor.DateTimeEditor</RepositoryUrl>
 	<Title>ExpressApp Blazor DateTimePropertyEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>

@@ -3,9 +3,9 @@ using DevExpress.ExpressApp.Blazor.Editors;
 using DevExpress.ExpressApp.Blazor.Editors.Adapters;
 using DevExpress.ExpressApp.Model;
 using DevExpress.ExpressApp.Model.Core;
-using JMTech.ExpressApp.Blazor.Editors.Adapters;
+using AvTex.ExpressApp.Blazor.Editors.Adapters;
 
-namespace JMTech.ExpressApp.Blazor.Editors;
+namespace AvTex.ExpressApp.Blazor.Editors;
 
 public class DateTimePropertyEditor : BlazorPropertyEditorBase
 {
